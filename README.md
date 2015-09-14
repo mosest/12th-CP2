@@ -1,2 +1,2 @@
 # 12th-CP2
-Fall 2013, Java 2
+Senior year at ASMSA, Fall semester. Only like three of these were turned in
