@@ -1,0 +1,19 @@
+000Name                    000Department     00000ItemSold       0000000000000
+001Tara                    002DrawingCats    00012Lots of Pencils0066600000599
+002Simon                   007ComputerSci??  00099Wireless Mouse 0000200001250
+003Miracline               111Physics        65432Curry and Rice 0000199999998
+138Chris                   111Physics        00030Fucking Magnets0002000004999
+062Mariah Carey            101Music          00040SignedMicrophon0006000000099
+063Eminem                  101Music          00006Voices In Head 0000200000699
+002Simon                   007ComputerSci??  00080i<3pi stickers 0005000100000
+004Woo                     007ComputerSci??  00002Condescention  0002000000000
+063Eminem                  101Music          00003MonsterUnderBed0000100000399
+087Rihanna                 101Music          00090Arson Lawyers  0000100001000
+009Jessica Tate            013Puglyf         00222Collars        1200000000001
+021Flo Rida                101Music          12345AppleBottomJean0000100001399
+021Flo Rida                101Music          12345BootsWithDaFur 0000200000599
+021Flo Rida                101Music          12345WholeClubLookin0000100999999
+001Tara                    002DrawingCats    00333Sad Cartoons   0001300000400
+009Jessica Tate            013Puglyf         00220Plants         1200000000001
+009Jessica Tate            013Puglyf         00221Dog Food Tea   1200000000001
+009Jessica Tate            013Puglyf         00224Happiness      1200000000001

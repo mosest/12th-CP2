@@ -1,0 +1,48 @@
+     123456
+     Tara
+     Moses
+     2805 Walnut St.
+     Arkadelphia
+     AR
+     71923-6321
+     8704032434
+          N
+          Y
+          Y
+
+     567890
+     Devan
+     MacKay
+     3105 Walnut St.
+     Hot Springs
+     AR
+     71901-6321
+     8704036569
+          N
+          Y
+          N
+          
+     123456
+     Tara
+     Moses
+     2805 Walnut St.
+     Arkadelphia
+     AR
+     71923-6321
+     8704032434
+          N
+          N
+          N
+
+     567890
+     Devan
+     MacKay
+     3105 Walnut St.
+     Hot Springs
+     AR
+     71901-6321
+     8704036569
+          N
+          N
+          Y
+          

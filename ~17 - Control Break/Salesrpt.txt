@@ -1,0 +1,53 @@
+0 0 Name                     $0.00
+
+Name's Total: $0.00
+
+
+DEPARTMENT TOTAL: $0.00
+2 1 Tara                     $5.99
+2 1 Tara                     $4.00
+
+Tara's Total: $9.99
+
+
+DEPARTMENT TOTAL: $9.99
+7 4 Woo                      $0.00
+
+Woo's Total: $0.00
+7 2 Simon                    $12.50
+7 2 Simon                    $1000.00
+
+Simon's Total: $1012.50
+
+
+DEPARTMENT TOTAL: $1012.50
+13 9 Jessica Tate             $0.01
+13 9 Jessica Tate             $0.01
+13 9 Jessica Tate             $0.01
+13 9 Jessica Tate             $0.01
+
+Jessica Tate's Total: $0.04
+
+
+DEPARTMENT TOTAL: $0.04
+101 87 Rihanna                  $10.00
+
+Rihanna's Total: $10.00
+101 63 Eminem                   $6.99
+101 63 Eminem                   $3.99
+
+Eminem's Total: $10.98
+101 62 Mariah Carey             $0.99
+
+Mariah Carey's Total: $0.99
+101 21 Flo Rida                 $13.99
+101 21 Flo Rida                 $5.99
+101 21 Flo Rida                 $9999.99
+
+Flo Rida's Total: $10019.97
+
+
+DEPARTMENT TOTAL: $10041.94
+111 138 Chris                    $49.99
+
+Chris's Total: $49.99
